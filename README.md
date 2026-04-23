@@ -1,33 +1,27 @@
-# ResumeRank — ATS Resume Checker
+# 🌐 Portfolio Website
 
-A web-based ATS (Applicant Tracking System) tool that analyzes resumes against job descriptions.
+This is my personal portfolio website showcasing my skills, projects, and experience.
 
 ## 🚀 Features
-- Upload Resume (PDF)
-- Paste Job Description
-- ATS Match Score (0–100%)
-- Matched & Missing Keywords
-- NLP-based keyword extraction
+- Responsive design
+- About Me section
+- Projects showcase
+- Resume download
+- Contact section
 
 ## 🛠️ Tech Stack
-- Python (Flask)
-- spaCy (NLP)
-- FastEmbed
-- HTML, CSS
+- HTML
+- CSS
+- JavaScript
 
-## ▶️ How to Run
-1. Clone repo
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Run:
-   python app.py
-4. Open:
-   http://127.0.0.1:5000
+## 📂 Project Structure
+- index.html → Main page
+- css/ → Styling
+- js/ → Functionality
+- assets/ → Images & resume
 
-## 📌 Project Structure
-- app.py → Backend
-- templates/ → UI
-- resume_matcher/ → Logic
+## 🌍 Live Demo
+(put your GitHub Pages link here)
 
 ## 👩‍💻 Author
 Shruti Aggarwal
